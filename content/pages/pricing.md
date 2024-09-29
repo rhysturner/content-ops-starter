@@ -3,7 +3,7 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: Our Packages
       color: text-dark
       styles:
         self:
@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: This is the subtitle for the pricing section
     plans:
-      - title: Developers
+      - title: Trial
         price: Free
         details: No credit card required
         description: >-
@@ -27,7 +27,7 @@ sections:
           altText: Pricing plan 1
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Book now
             url: /
             icon: arrowRight
             iconPosition: right
@@ -43,9 +43,9 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Professional
-        price: $99
-        details: per month
+      - title: One time
+        price: $30
+        details: per hr
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
@@ -59,7 +59,7 @@ sections:
           altText: Pricing plan 2
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Book Now
             url: /
             icon: arrowRight
             iconPosition: right
@@ -75,7 +75,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Enterprise
+      - title: Regular
         price: Custom
         details: per month
         description: >-
@@ -92,7 +92,7 @@ sections:
           altText: Pricing plan 3
           type: ImageBlock
         actions:
-          - label: Contact us
+          - label: Book Now
             url: /
             icon: arrowRight
             iconPosition: right
